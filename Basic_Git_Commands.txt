@@ -1,0 +1,47 @@
+# Clonar un repositorio remoto a tu computadora local
+git clone URL_DEL_REPOSITORIO
+
+# Navegar a la carpeta del repositorio clonado
+cd NOMBRE_DE_LA_CARPETA
+
+# Verificar el estado de los archivos en el repositorio
+git status
+
+# Agregar cambios (nuevos o modificados) al área de preparación
+git add .
+
+# Realizar un commit con los cambios agregados y proporcionar un mensaje
+git commit -m "Mensaje del commit"
+
+# Subir los cambios locales al repositorio remoto en la rama especificada
+git push origin NOMBRE_DE_LA_RAM
+
+# Actualizar tu repositorio local con los cambios más recientes del repositorio remoto
+git pull origin NOMBRE_DE_LA_RAM
+
+# Crear una nueva rama
+git branch NOMBRE_DE_LA_NUEVA_RAM
+
+# Cambiar a una rama específica
+git checkout NOMBRE_DE_LA_RAM
+
+# Crear una nueva rama y cambiar a ella
+git checkout -b NOMBRE_DE_LA_NUEVA_RAM
+
+# Fusionar una rama con la rama actual
+git merge NOMBRE_DE_LA_OTRA_RAM
+
+# Ver una lista de ramas y su estado
+git branch
+
+# Ver el historial de commits
+git log
+
+# Crear un nuevo repositorio local
+git init
+
+# Agregar un repositorio remoto
+git remote add NOMBRE_DEL_REMOTO URL_DEL_REMOTO
+
+# Ver información sobre el repositorio remoto
+git remote -v
