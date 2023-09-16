@@ -18,7 +18,7 @@ Notebook                                                                        
 [02 - Variables y Tipos de Datos Simples.ipynb](/02%20-%20Variables%20y%20Tipos%20de%20Datos%20Simples.ipynb)                                   | 🟡
 [03 - Operadores y Expresiones.ipynb](/03%20-%20Operadores%20y%20Expresiones.ipynb)                                                             | 🟡
 [04 - Condicionales y Controladores de Flujo.ipynb](/04%20-%20Condicionales%20y%20Controladores%20de%20Flujo.ipynb)                             | 🟡
-[05 - Listas y Estructuras de Datos Básicas.ipynb](/05%20-%20Listas%20y%20Estructuras%20de%20Datos%20Básicas.ipynb)                             | ❌
+[05 - Listas y Estructuras de Datos Básicas.ipynb](/05%20-%20Listas%20y%20Estructuras%20de%20Datos%20Básicas.ipynb)                             | 🟡
 [06 - Funciones y Modularización.ipynb](/06%20-%20Funciones%20y%20Modularización.ipynb)                                                         | ❌
 [07 - Introducción a Clases y Objetos.ipynb](/07%20-%20Introducción%20a%20Clases%20y%20Objetos.ipynb)                                           | ❌
 [08 - Manejo de Archivos y Entrada-Salida.ipynb](/08%20-%20Manejo%20de%20Archivos%20y%20Entrada-Salida.ipynb)                                   | ❌
