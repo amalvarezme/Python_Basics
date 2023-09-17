@@ -11,6 +11,8 @@ Python, con una trayectoria que abarca más de tres décadas, se ha consolidado 
 Secciones                                                                                                                                        | Estado
 -----------------------------------------------------------------------------------------------------------------------------------------------  | :-----:
 [01 - Python Básico](/01%20-%20Python%20Básico)                                                                                                  | 🟡
+[02 - Python Medio](/02%20-%20Python%Medio)                                                                                                      | ❌
+[03 - Python Avanzado](/03%20-%20Python%20Avanzado)                                                                                              | ❌
 
 
 
