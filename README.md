@@ -25,3 +25,9 @@ Notebook                                                                        
 [09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
 [09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
 [10 - Depuración](/10%20-%20Depuración.ipynb)                                                                                                   | 🟡
+
+## Licencia
+
+Este trabajo está bajo una licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
