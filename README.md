@@ -24,4 +24,4 @@ Notebook                                                                        
 [08 - Manejo de Archivos y Entrada-Salida](/08%20-%20Manejo%20de%20Archivos%20y%20Entrada-Salida.ipynb)                                         | 🟡
 [09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
 [09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
-[10 - Depuración](/09%20-%Depuración.ipynb)                                                                                                     | 🟡
+[10 - Depuración](/10%20-%20Depuración.ipynb)                                                                                                   | 🟡
