@@ -21,9 +21,9 @@ Destinado a los programadores experimentados, este nivel aborda temas avanzados 
 
 Secciones                                                                                                                                        | Estado
 -----------------------------------------------------------------------------------------------------------------------------------------------  | :-----:
-[01 - Python Básico](/01%20-%20Python%20Básico)                                                                                                  | 🟡
-[02 - Python Medio](/02%20-%20Python%Medio)                                                                                                      | ❌
-[03 - Python Avanzado](/03%20-%20Python%20Avanzado)                                                                                              | ❌
+[01 - Python Básico](/01%20-%20Python%20Básico/README.md)                                                                                                  | 🟡
+[02 - Python Medio](/02%20-%20Python%20Medio/README.md)                                                                                                      | ❌
+[03 - Python Avanzado](/03%20-%20Python%20Avanzado/README.md)                                                                                              | ❌
 
 
 
