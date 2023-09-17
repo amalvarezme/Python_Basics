@@ -14,17 +14,16 @@ un entendimiento más profundo y una futura especialización en Python.
 
 Notebook                                                                                                                                        | Estado
 ----------------------------------------------------------------------------------------------------------------------------------------------- | :-----:
-[01 - Introducción a Python (Instalación, primeros pasos)](/01%20-%20Introducción%20a%20Python%20(Instalación,%20primeros%20pasos).ipynb)       | 🟡
-[02 - Variables y Tipos de Datos Simples](/02%20-%20Variables%20y%20Tipos%20de%20Datos%20Simples.ipynb)                                         | 🟡
-[03 - Operadores y Expresiones](/03%20-%20Operadores%20y%20Expresiones.ipynb)                                                                   | 🟡
-[04 - Condicionales y Controladores de Flujo](/04%20-%20Condicionales%20y%20Controladores%20de%20Flujo.ipynb)                                   | 🟡
-[05 - Listas y Estructuras de Datos Básicas](/05%20-%20Listas%20y%20Estructuras%20de%20Datos%20Básicas.ipynb)                                   | 🟡
-[06 - Funciones y Modularización](/06%20-%20Funciones%20y%20Modularización.ipynb)                                                               | 🟡
-[07 - Introducción a Clases y Objetos](/07%20-%20Introducción%20a%20Clases%20y%20Objetos.ipynb)                                                 | 🟡
-[08 - Manejo de Archivos y Entrada-Salida](/08%20-%20Manejo%20de%20Archivos%20y%20Entrada-Salida.ipynb)                                         | 🟡
-[09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
-[09 - Errores y Excepciones (Manejo básico)](/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
-[10 - Depuración](/10%20-%20Depuración.ipynb)                                                                                                   | 🟡
+[01 - Introducción a Python (Instalación, primeros pasos)](/01%20-%20Python%20Básico/01%20-%20Introducción%20a%20Python%20(Instalación,%20primeros%20pasos).ipynb)       | 🟡
+[02 - Variables y Tipos de Datos Simples](/01%20-%20Python%20Básico/02%20-%20Variables%20y%20Tipos%20de%20Datos%20Simples.ipynb)                                         | 🟡
+[03 - Operadores y Expresiones](/01%20-%20Python%20Básico/03%20-%20Operadores%20y%20Expresiones.ipynb)                                                                   | 🟡
+[04 - Condicionales y Controladores de Flujo](/01%20-%20Python%20Básico/04%20-%20Condicionales%20y%20Controladores%20de%20Flujo.ipynb)                                   | 🟡
+[05 - Listas y Estructuras de Datos Básicas](/01%20-%20Python%20Básico/05%20-%20Listas%20y%20Estructuras%20de%20Datos%20Básicas.ipynb)                                   | 🟡
+[06 - Funciones y Modularización](/01%20-%20Python%20Básico/06%20-%20Funciones%20y%20Modularización.ipynb)                                                               | 🟡
+[07 - Introducción a Clases y Objetos](/01%20-%20Python%20Básico/07%20-%20Introducción%20a%20Clases%20y%20Objetos.ipynb)                                                 | 🟡
+[08 - Manejo de Archivos y Entrada-Salida](/01%20-%20Python%20Básico/08%20-%20Manejo%20de%20Archivos%20y%20Entrada-Salida.ipynb)                                         | 🟡
+[09 - Errores y Excepciones (Manejo básico)](/01%20-%20Python%20Básico/09%20-%20Errores%20y%20Excepciones%20(Manejo%20básico).ipynb)                                     | 🟡
+[10 - Depuración](/01%20-%20Python%20Básico/10%20-%20Depuración.ipynb)                                                                                                   | 🟡
 
 ## Licencia
 
